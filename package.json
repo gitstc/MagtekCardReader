@@ -1,0 +1,24 @@
+{
+  "name": "magtek-udynamo",
+  "version": "0.0.5",
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "description": "Allow using the MagTek uDynamo Card Reader with PhoneGap apps",
+  "repository": {
+    "type": "local"
+  },
+  "issue": "",
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "magtek",
+    "udynamo"
+  ],
+  "author": "eGood, LLC",
+  "license": "Apache 2.0"
+}
